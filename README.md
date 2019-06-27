@@ -4,11 +4,11 @@
 
 Clickthrough rate (CTR) __ is a ratio showing how often people who see your ad end up clicking it. Clickthrough rate (CTR) can be used to gauge how well your keywords and ads are performing.
 
-    CTR is the number of clicks that your ad receives divided by the number of times your ad is shown: clicks ÷ impressions =     CTR. For example, if you had 5 clicks and 100 impressions, then your CTR would be 5%.
+1. CTR is the number of clicks that your ad receives divided by the number of times your ad is shown: clicks ÷ impressions =     CTR. For example, if you had 5 clicks and 100 impressions, then your CTR would be 5%.
 
-    Each of your ads and keywords have their own CTRs that you can see listed in your account.
+2. Each of your ads and keywords have their own CTRs that you can see listed in your account.
 
-    A high CTR is a good indication that users find your ads helpful and relevant. CTR also contributes to your keyword's     expected CTR, which is a component of Ad Rank. Note that a good CTR is relative to what you're advertising and on which networks.
+3. A high CTR is a good indication that users find your ads helpful and relevant. CTR also contributes to your keyword's     expected CTR, which is a component of Ad Rank. Note that a good CTR is relative to what you're advertising and on which networks.
 
     Credits: Google (https://support.google.com/adwords/answer/2615875?hl=en)
 
@@ -16,21 +16,24 @@ Search advertising has been one of the major revenue sources of the Internet ind
 
 ## Useful Links:
 
-_ Source __ : https://www.kaggle.com/c/kddcup2012-track2 
-__ Dropbox Links __: https://www.dropbox.com/sh/k84z8y9n387ptjb/AAA8O8IDFsSRhOhaLfXVZcJwa?dl=0 
-__ Blog __ :https://hivemall.incubator.apache.org/userguide/regression/kddcup12tr2dataset.html
+1. Source : https://www.kaggle.com/c/kddcup2012-track2 
+
+2. Dropbox Links __: https://www.dropbox.com/sh/k84z8y9n387ptjb/AAA8O8IDFsSRhOhaLfXVZcJwa?dl=0 
+
+3. Blog :https://hivemall.incubator.apache.org/userguide/regression/kddcup12tr2dataset.html
 
 
 ## Real-world/Business Objectives and Constraints 
 
-Objective: Predict the pClick (probability of click) as accurately as possible.
+1. Objective: Predict the pClick (probability of click) as accurately as possible.
 
-Constraints: Low latency, Interpretability.
+2. Constraints: Low latency, Interpretability.
 
 ## Type of Machine Learning Problem 
 
 It is a regression problem as we predicting CTR = #clicks/#impressions
 
 ## Performance metric 
-Souce : https://www.kaggle.com/c/kddcup2012-track2#Evaluation 
-ROC
+
+1. Souce : https://www.kaggle.com/c/kddcup2012-track2#Evaluation 
+2. ROC
